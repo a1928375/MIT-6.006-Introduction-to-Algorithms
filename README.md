@@ -8,8 +8,7 @@
       
           (1) the specified file is read in
           
-          (2) it is converted into a list of alphanumeric "words". Here a "word" is a sequence of consecutive alphanumeric characters.
-          Non-alphanumeric characters are treated as blanks. Case is not significant.
+          (2) it is converted into a list of alphanumeric "words". Here a "word" is a sequence of consecutive alphanumeric characters. Non-alphanumeric characters are treated as blanks. Case is not significant.
           
           (3) for each word, its frequency of occurrence is determined
           
