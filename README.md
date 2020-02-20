@@ -1,5 +1,7 @@
 # MIT-6.006-Introduction-to-Algorithms
 
+Unit 1 Lesson 2
+
 1. docdist1:
       
       This program computes the "distance" between two text files as the angle between their word frequency vectors (in radians).
