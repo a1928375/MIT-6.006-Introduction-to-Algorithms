@@ -11,5 +11,7 @@
           (3) for each word, its frequency of occurrence is determined
           (4) the word/frequency lists are sorted into order alphabetically
 
-      The "distance" between two vectors is the angle between them. If x = (x1, x2, ..., xn) is the first vector (xi = freq of word i) and  y = (y1, y2, ..., yn) is the second vector, then the angle between them is defined as: d(x,y) = arccos(inner_product(x,y) / (norm(x)*norm(y))) where: inner_product(x,y) = x1*y1 + x2*y2 + ... xn*yn   &  norm(x) = sqrt(inner_product(x,x))
+      The "distance" between two vectors is the angle between them. If x = (x1, x2, ..., xn) is the first vector (xi = freq of word i) and  y = (y1, y2, ..., yn) is the second vector, then the angle between them is defined as: 
+      d(x,y) = arccos(inner_product(x,y) / (norm(x)*norm(y))) where: inner_product(x,y) = x1*y1 + x2*y2 + ... xn*yn
+      norm(x) = sqrt(inner_product(x,x))
       
